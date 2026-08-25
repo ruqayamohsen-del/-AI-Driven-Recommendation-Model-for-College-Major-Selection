@@ -1,4 +1,0 @@
-Model,Accuracy,Macro Precision,Macro Recall,Macro F1
-Most Frequent,0.1765,0.016,0.0909,0.0273
-Stratified,0.1142,0.0893,0.0894,0.0893
-CatBoost (frozen V3),0.3137,0.2457,0.2338,0.2287
