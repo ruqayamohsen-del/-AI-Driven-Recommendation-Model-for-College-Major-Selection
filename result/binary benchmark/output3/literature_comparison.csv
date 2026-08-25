@@ -1,0 +1,4 @@
+Study,Target,Sample,Predictors,Model,Validation,Accuracy,AUC,Macro-F1
+Chang et al. (2023),"X4RFDGMJSTEM (completed/declared degree, DIFFERENT construct)","11,560",102,CART (decision tree),80/20 holdout,0.8,,
+Nagy et al. (2023),"Entry-intent STEM (exact HSLS code not reported; aligned, not confirmed identical)","11,550",104,CatBoost,5-fold CV (mean),0.79,0.801,
+This study -- Stage 1/6 (live result),X4ENTMJST (official NCES entry-intent STEM composite),12134,377,CatBoost (frozen V3 protocol),80/20 holdout + 5-fold CV,0.7936,0.8166,0.7007
