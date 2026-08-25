@@ -1,0 +1,4 @@
+Version,Best Model,F1 Test,Note
+V1 (raw baseline),Naive Bayes,0.236,
+V2 (imputed + scaled),CatBoost,0.201,
+V3 (+ SMOTE),CatBoost,0.2242,

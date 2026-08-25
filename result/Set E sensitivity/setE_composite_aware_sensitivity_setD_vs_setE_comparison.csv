@@ -1,0 +1,4 @@
+Version,Set D CatBoost F1,Set E CatBoost F1,Difference (Set E - Set D)
+V1,0.1453,0.1395,-0.0058
+V2,0.2088,0.201,-0.0078
+V3,0.2287,0.2242,-0.0045
