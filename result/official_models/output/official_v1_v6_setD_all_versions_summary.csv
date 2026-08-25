@@ -1,0 +1,7 @@
+Version,Best Model,F1 Test,Note
+V1 (raw baseline),Naive Bayes,0.2455,
+V2 (imputed + scaled),SVM,0.1966,
+V3 (+ SMOTE),SVM,0.2271,
+V4 (+ feature selection),SVM,0.2271,
+V5 (+ hyperparameter tuning),Random Forest,0.1253,
+V6 (stacking ensemble),Stacking (RF+SVM+NB -> LogReg),0.1251,
