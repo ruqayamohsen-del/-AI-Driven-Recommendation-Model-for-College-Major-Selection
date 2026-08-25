@@ -1,0 +1,13 @@
+Feature,All features (V3 baseline),Chi-Square Top 20,RFE Top 20,RF Importance Top 20,"Consensus (all 3 methods, Top 20)",Chi-Square Top 50,RFE Top 50,RF Importance Top 50,Chi-Square Top 100,RFE Top 100,RF Importance Top 100
+X3T1CREDCALC,True,True,False,False,False,True,False,False,True,False,False
+X1TXMTH,True,False,False,False,False,False,True,True,False,True,True
+X2TXMTH,True,False,True,True,False,False,True,True,False,True,True
+X1SCIID,True,False,False,False,False,False,True,True,True,True,True
+X2SCIID,True,False,False,True,False,True,True,True,True,True,True
+X1MTHID,True,False,False,False,False,False,True,True,True,True,True
+X2MTHID,True,False,False,False,False,True,True,True,True,True,True
+X1SCIEFF,True,False,True,False,False,False,True,True,False,True,True
+X2SCIEFF,True,False,False,False,False,False,True,True,False,True,True
+X2MTHEFF,True,False,True,False,False,False,True,True,False,True,True
+X1SESQ5,True,False,False,False,False,False,False,False,False,True,True
+X2SESQ5,True,False,False,False,False,False,False,False,False,False,False

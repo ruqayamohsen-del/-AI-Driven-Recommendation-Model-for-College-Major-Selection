@@ -1,0 +1,7 @@
+Version,Best Model,F1 Test,Note
+V1 (raw baseline),Naive Bayes,0.2455,
+V2 (imputed + scaled),CatBoost,0.2088,
+V3 (+ SMOTE),CatBoost,0.2287,
+V4 (+ feature selection),CatBoost,0.2287,
+V5 (+ hyperparameter tuning),CatBoost,0.1505,
+V6 (stacking ensemble),Stacking (RF+CatBoost+NB -> LogReg),0.1318,
