@@ -1,0 +1,22 @@
+Field,Value
+Dataset,/content/drive/MyDrive/clean files/prepared_hsls_setD_4Y (3).csv
+Target,program_stream
+Number of records,12829
+Number of predictors,377
+Split,80/20 stratified
+Random state,42
+Final model,"V3 CatBoost (imputed + scaled + SMOTE, untuned)"
+Documented reference test Macro-F1,0.2287
+Reproduced test Macro-F1,0.2287
+Reproduction discrepancy,0.0
+Dummy (most frequent) Macro-F1,0.0273
+Dummy (stratified) Macro-F1,0.0893
+CV Macro-F1 mean,0.2244
+CV Macro-F1 SD,0.0145
+CV source,loaded from frozen Set D experiment ('/content/drive/MyDrive/clean files/catboost_svm_replacement_v1_v1_v2_v3_per_model_results.csv')
+Strongest classes (by F1),"Health care fields, Engineering and engineering technology, Biological & physical sciences, science technologies, mathematics, agriculture"
+Weakest classes (by F1),"Undeclared/undecided, General studies and other, Social sciences"
+Top-10 SHAP features,"X2SEX, S2SCAREER, S2SEX, S2MCAREER, X1SEX, X2SCIID, S2FAVSUBJ, X2MTHID, S2SUSEJOB, X3THIPHY"
+"Dimension SHAP ranking (by total, FINAL)","Academic performance/preparation, Demographic/SES controls, Career interests and aspirations, Behavioral/psychological factors, Skills and self-efficacy"
+Predictors with 'Dimension requires review',0
+H2 conclusion,Final H2 interpretation should be based on the manually verified dimension results and reported cautiously.

@@ -1,0 +1,6 @@
+Feature dimension,Number of predictors,Total mean |SHAP|,Percentage of total SHAP,Average mean |SHAP| per predictor
+Academic performance/preparation,240,3.0507680946518034,51.0,0.012711533727715848
+Demographic/SES controls,55,1.1451615415112526,19.14,0.02082111893656823
+Career interests and aspirations,51,1.001918594870777,16.75,0.019645462644525036
+Behavioral/psychological factors,21,0.43747122128332716,7.31,0.020831962918253673
+Skills and self-efficacy,10,0.3471052713058208,5.8,0.03471052713058208
