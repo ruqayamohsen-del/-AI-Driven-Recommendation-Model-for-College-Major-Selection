@@ -1,0 +1,22 @@
+# Core data processing
+pandas
+numpy
+scipy
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+catboost
+
+# Explainable AI
+shap
+
+# Visualisation
+matplotlib
+
+# Model persistence / parallel utilities
+joblib
+
+# Notebook environment
+jupyter
+ipykernel
